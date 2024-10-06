@@ -1,0 +1,32 @@
+@use "./Navbar";
+@use "./DynamicSections";
+@use "./Selector";
+@use "./StaticSections";
+@use "./ModelsRow";
+@use "./Footer";
+
+
+
+
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+
+}
+
+#root {
+    width: 100vw;
+
+}
+
+body {
+    /* 300 400 500 700 900 */
+    font-family: 'Roboto', sans-serif;
+                                                
+                                           
+    overflow-x: hidden;
+                                                
+}
+

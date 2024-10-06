@@ -1,0 +1,60 @@
+{
+    "id": "finance_and_incentives",
+    "title": "Finance & Incentives",
+    "data" : [
+        {
+            "id": 1,
+            "text": "Apply for Financing",
+            "hasIcon": true,
+            "url": ""
+        },
+        {
+            "id": 2,
+            "text": "BMW Financial Services",
+            "hasIcon": false,
+            "url": ""
+        },
+        {
+            "id": 3,
+            "text": "Manage Your BMW Financial Services Account",
+            "hasIcon": false,
+            "url": ""
+        },
+        {
+            "id": 4,
+            "text": "",
+            "hasIcon": false,
+            "url": ""
+        },
+        {
+            "id": 5,
+            "text": "BMW Military Program",
+            "hasIcon": false,
+            "url": ""
+        },
+        {
+            "id": 6,
+            "text": "BMW Corporate Fleet Program",
+            "hasIcon": false,
+            "url": ""
+        },
+        {
+            "id": 7,
+            "text": "BMW Corporate Sales Program",
+            "hasIcon": false,
+            "url": ""
+        },
+        {
+            "id": 8,
+            "text": "BMW College Graduate Program",
+            "hasIcon": false,
+            "url": ""
+        },
+        {
+            "id": 9,
+            "text": "BMW Mobility Program",
+            "hasIcon": false,
+            "url": ""
+        }
+    ]
+}
